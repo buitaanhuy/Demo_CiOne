@@ -114,6 +114,7 @@ html{
     outline: none;
 }
 
+
 .search__item:focus{
     border-color: #888;
 }
@@ -187,7 +188,7 @@ html{
 }
 
 .source{
-    color: rgb(49, 77, 206);
+    color: rgb(59, 188, 145);
 }
 
 .content__sub{
